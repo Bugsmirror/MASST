@@ -1,6 +1,6 @@
 # MASST – Mobile Application Security Suite & Tools
 
-MASST (Mobile Application Security Suite and Tools) by [BugsMirror](https://bugsmirror.com) is a comprehensive end-to-end platform for mobile application security. It offers real-time threat detection, runtime protection, obfuscation, and API shielding — all powered by AI and optimized for developers, DevSecOps, and product teams.
+MASST (Mobile Application Security Suite and Tools) by [Bugsmirror](https://bugsmirror.com) is a comprehensive end-to-end platform for mobile application security. It offers real-time threat detection, runtime protection, obfuscation, and API shielding — all powered by AI and optimized for developers, DevSecOps, and product teams.
 
 ## 🔐 Key Features
 
